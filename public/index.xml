@@ -121,7 +121,7 @@
 
 &lt;p&gt;This term at lab meeting, we are reading and discussing a selection of papers related to the Open Science movement. We are focussing on the 3 P’s of Open Science: Philosophy, Politics and Practicalities.&lt;/p&gt;
 
-&lt;p&gt;You can check out our Open Science &lt;a href=&#34;insert link&#34; target=&#34;_blank&#34;&gt;reading list here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can check out our Open Science &lt;a href=&#34;https://heuristic-bohr-3e6f4b.netlify.com/post/reading-list/&#34; target=&#34;_blank&#34;&gt;reading list here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;So far we have learned a lot about how the Open Science movement came about as well as the benefits and challenges of practicing open science, especially in our subfields (developmental/clinical) of Psychology. Below details some of our thoughts.&lt;/p&gt;
 
@@ -129,7 +129,7 @@
 
 &lt;p&gt;In essence, open science is about being transparent about what we do and what we find as scientists. This includes sharing methodology, stimuli, code and data. Practicing open science makes it more likely that our work is reproducible and able to be replicated.&lt;/p&gt;
 
-&lt;p&gt;A big part of being transparent involves pre-registering our intentions for data analysis and reporting findings in a way that is true to that intent; that is, not reporting only significant results. Open science is also about making results as available to the public as you can, as early as possible (e.g., preprints).&lt;/p&gt;
+&lt;p&gt;A big part of being transparent involves pre-registering our intentions for data analysis and reporting findings in a way that is true to that intent; that is, not reporting only significant results. Open science is also about making results as available to the public as you can, as early as possible (e.g., pre-prints).&lt;/p&gt;
 
 &lt;p&gt;These two quotes from the &lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716&#34; target=&#34;_blank&#34;&gt;Open Science Collaboration (2015)&lt;/a&gt; nicely encapsulate the philosophical stance of the Open Science movement and subsequent good research practices:&lt;/p&gt;
 
@@ -151,7 +151,7 @@
 
 &lt;p&gt;The Open Science movement should help improve the reliability and quality of scientific work. For example, pre-registration helps ensure that researchers have fully considered analyses and anticipated outcomes of an experiment. Pre-registrations transparently differentiate between confirmatory hypothesis testing and post-hoc exploratory analyses. This helps to guard against questionable research practices and unconscious errors.&lt;/p&gt;
 
-&lt;p&gt;Registered Reports take it one step further. In RR, hypotheses and methods are peer-reviewed and an author can obtain in principle acceptance for publication prior to data collection. This also helps prevent questionable research practices but also importantly improves chances of publication, in the case of null findings. The reporting of null findings is important because in well-designed and powered experiments, these findings are still informative.&lt;/p&gt;
+&lt;p&gt;Registered Reports (RR) take it one step further. In RR, hypotheses and methods are peer-reviewed and an author can obtain in principle acceptance for publication prior to data collection. This also helps prevent questionable research practices but also importantly improves chances of publication, in the case of null findings. The reporting of null findings is important because in well-designed and powered experiments, these findings are still informative.&lt;/p&gt;
 
 &lt;h5 id=&#34;tips&#34;&gt;Tips&lt;/h5&gt;
 
@@ -169,15 +169,15 @@
 &lt;h5 id=&#34;tips-1&#34;&gt;Tips&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;make use of new tools that facilitate sharing and documenting your work efficiently and publicly&lt;/li&gt;
-&lt;li&gt;think about whether your research question can be addressed with existing, open data sets.&lt;/li&gt;
-&lt;li&gt;take advantage of free training options&lt;/li&gt;
-&lt;li&gt;select methods that fit your research question with feasibility in mind&lt;/li&gt;
+&lt;li&gt;Make use of new tools that facilitate sharing and documenting your work efficiently and publicly&lt;/li&gt;
+&lt;li&gt;Think about whether your research question can be addressed with existing, open data sets.&lt;/li&gt;
+&lt;li&gt;Take advantage of free training options&lt;/li&gt;
+&lt;li&gt;Select methods that fit your research question with feasibility in mind&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;3-investment-in-your-future&#34;&gt;3. Investment in your future&lt;/h4&gt;
 
-&lt;p&gt;Putting work and data in the public domain is central to open science and doing so may increase ECRs’ opportunities for acknowledgement, exchange, collaboration and advancement. Preprints allow you get the word out about your research earlier and will often get media coverage. Early adoption of open and reproducible methods is an investment in the future and can put young researchers ahead of the curve.&lt;/p&gt;
+&lt;p&gt;Putting work and data in the public domain is central to open science and doing so may increase Early Career Researchers (ECR) opportunities for acknowledgement, exchange, collaboration and advancement. Preprints allow you get the word out about your research earlier and will often get media coverage. Early adoption of open and reproducible methods is an investment in the future and can put young researchers ahead of the curve.&lt;/p&gt;
 
 &lt;h3 id=&#34;what-are-the-challenges-of-practicing-open-science&#34;&gt;What are the challenges of practicing Open Science?&lt;/h3&gt;
 
@@ -189,28 +189,28 @@ When data collection has started, new learning about analysis techniques, subseq
 &lt;h5 id=&#34;tips-2&#34;&gt;Tips&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;pilot data are your friend; you can explore without constraint&lt;/li&gt;
-&lt;li&gt;make a distinction between planned and exploratory analyses&lt;/li&gt;
-&lt;li&gt;preregistred and RR experiments are likely to have a higher evidential value than closed science experiments in the future and so researchers should be encouraged to use these formats&lt;/li&gt;
-&lt;li&gt;be open to mistakes and do not reprimand others for their mistakes&lt;/li&gt;
+&lt;li&gt;Pilot data are your friend; you can explore without constraint&lt;/li&gt;
+&lt;li&gt;Make a distinction between planned and exploratory analyses&lt;/li&gt;
+&lt;li&gt;Pre-registered and RR experiments are likely to have a higher evidential value than closed science experiments in the future and so researchers should be encouraged to use these formats&lt;/li&gt;
+&lt;li&gt;Be open to mistakes and do not reprimand others for their mistakes&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;2-the-time-cost&#34;&gt;2. The time cost&lt;/h4&gt;
 
-&lt;p&gt;There is no argument that Open Science takes longer. Archiving, documenting, and maintaining quality control over code and data takes time. The preregistration and RR process also take time; it is important to carefully consider the research strategy as early as possible in projects, because resources (generally, but particularly time) are limited for ECRs.&lt;/p&gt;
+&lt;p&gt;There is no argument that Open Science takes longer. Archiving, documenting, and maintaining quality control over code and data takes time. The pre-registration and RR process also take time; it is important to carefully consider the research strategy as early as possible in projects, because resources (generally, but particularly time) are limited for ECRs.&lt;/p&gt;
 
 &lt;h5 id=&#34;tip&#34;&gt;Tip&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;preregistered, well powered experiments are preferential to those that are not, but it should be expected and planned for that these will take longer than would otherwise be the case.&lt;/li&gt;
-&lt;li&gt;take time cost into account, both in planning research and thinking about employment.&lt;/li&gt;
+&lt;li&gt;Pre-registered, well powered experiments are preferential to those that are not, but it should be expected and planned for that these will take longer than would otherwise be the case.&lt;/li&gt;
+&lt;li&gt;Take time cost into account, both in planning research and thinking about employment.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;3-incentive-structures-aren-t-in-place-yet&#34;&gt;3. Incentive structures aren&amp;rsquo;t  in place yet&lt;/h4&gt;
 
 &lt;p&gt;&lt;strong&gt;We talked about this point for a long time in our lab meeting&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Systems that reward open science practices are currently rare. High-profile journals are more likely to publish papers that report positive results and tell a &amp;ldquo;good&amp;rdquo; (aka tidy) story.  Preregistration and the loss of flexibility that goes with it limits the extent to which articles can be finessed.&lt;/p&gt;
+&lt;p&gt;Systems that reward open science practices are currently rare. High-profile journals are more likely to publish papers that report positive results and tell a &amp;ldquo;good&amp;rdquo; (aka tidy) story.  Pre-registration and the loss of flexibility that goes with it limits the extent to which articles can be finessed.&lt;/p&gt;
 
 &lt;p&gt;The requirement for studies to be novel, can also work againest motivations to perform replications. In lab meeting, we talked about how the innovation motivation goes all the way back to how we teach research methods to undergraduates. When teaching students about  writing, we emphasise how important it is to highlight how the project fills a gap in the literature. We seldom talk about value of replication and extension.&lt;/p&gt;
 
@@ -218,14 +218,14 @@ When data collection has started, new learning about analysis techniques, subseq
 
 &lt;p&gt;There are risks for those at all levels of the game, particularly when the motivation of late has been quantity over quality. For ECRs, engaging in open science is likely to result in fewer publications, which could be quesitoned once you go on the job market. For senior researchers, while it is possible that their previous work could be devalued by failed replications, they are likely to have already secured the benefits of quicker and less robust research practices. Those who are PhD advisors and on hiring committeess, may teach and expect levels of &amp;ldquo;productivity&amp;rdquo; from a different time, which is likely to become a source of tension.&lt;/p&gt;
 
-&lt;h5 id=&#34;tip-1&#34;&gt;Tip&lt;/h5&gt;
+&lt;h5 id=&#34;tips-3&#34;&gt;Tips&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Early adoption of open methods and high standards requires careful planning&lt;/li&gt;
-&lt;li&gt;engaging in OS should put ECRs ahead of the curve as practices evolve&lt;/li&gt;
+&lt;li&gt;Engaging in OS should put ECRs ahead of the curve as practices evolve&lt;/li&gt;
 &lt;li&gt;Be strategic with which open science practices suit your research&lt;/li&gt;
 &lt;li&gt;Focus on quality over quantity&lt;/li&gt;
-&lt;li&gt;Given credit to others for efforts made toward the common good&lt;/li&gt;
+&lt;li&gt;Give credit to others for efforts made toward the common good&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;further-thoughts-from-a-ecr-perspective&#34;&gt;Further thoughts from a ECR perspective:&lt;/h3&gt;

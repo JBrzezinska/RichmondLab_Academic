@@ -7,7 +7,7 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: []
+authors: ["Richmond Lab"]
 lastmod: '2019-06-30T14:49:48+10:00'
 featured: no
 image:

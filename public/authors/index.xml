@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>written by: Ariana Krynen</title>
-      <link>/authors/written-by-ariana-krynen/</link>
+      <title>Richmond Lab</title>
+      <link>/authors/richmond-lab/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/written-by-ariana-krynen/</guid>
+      <guid>/authors/richmond-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>by Ariana Krynen</title>
+      <link>/authors/by-ariana-krynen/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/by-ariana-krynen/</guid>
       <description></description>
     </item>
     
