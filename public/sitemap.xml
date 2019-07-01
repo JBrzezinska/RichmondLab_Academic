@@ -35,13 +35,24 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-06-30T15:10:10+10:00</lastmod>
+    <lastmod>2019-07-01T20:49:43+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jenny-richmond/</loc>
+    <lastmod>2019-07-01T20:49:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-30T15:10:10+10:00</lastmod>
+    <lastmod>2019-07-01T20:49:43+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/summer-schools/</loc>
+    <lastmod>2019-07-01T20:49:43+10:00</lastmod>
   </url>
   
   <url>
