@@ -30,23 +30,50 @@
   <url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-07-01T20:49:43+10:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-07-25T21:45:27+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jenny-richmond/</loc>
-    <lastmod>2019-07-01T20:49:43+10:00</lastmod>
-    <priority>0</priority>
+    <loc>/authors/by-julia-b/</loc>
+    <lastmod>2019-07-25T21:45:27+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/good-enough/</loc>
+    <lastmod>2019-07-25T21:45:27+10:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2019-07-25T21:45:27+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/by-jenny-richmond/</loc>
+    <lastmod>2019-07-25T21:07:28+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/lessons-from-julia-lowndes/</loc>
+    <lastmod>2019-07-25T21:07:28+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/by-ashneeta-prasad/</loc>
+    <lastmod>2019-07-12T14:13:32+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/open-science-how-to/</loc>
+    <lastmod>2019-07-12T14:13:32+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jenny-richmond/</loc>
     <lastmod>2019-07-01T20:49:43+10:00</lastmod>
   </url>
   
@@ -56,15 +83,8 @@
   </url>
   
   <url>
-    <loc>/authors/richmond-lab/</loc>
-    <lastmod>2019-06-30T14:49:48+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/by-ariana-krynen/</loc>
     <lastmod>2019-06-30T15:10:10+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -78,6 +98,11 @@
   </url>
   
   <url>
+    <loc>/authors/richmond-lab/</loc>
+    <lastmod>2019-06-30T14:49:48+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -85,7 +110,6 @@
   <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -96,7 +120,6 @@
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -107,19 +130,16 @@
   <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -135,13 +155,11 @@
   <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -157,13 +175,11 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -174,13 +190,11 @@
   <url>
     <loc>/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -189,8 +203,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/post/2019-07-12-open-science-how-to/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>

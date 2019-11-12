@@ -1,5 +1,5 @@
 ---
-title: open science I
+title: What is open science?
 author: ''
 date: '2019-06-30'
 slug: open-science-i

@@ -44,3 +44,14 @@ https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/events/20
 #### 6. Advanced R for Bioinformatics Summer School (10-20 June 2019. Visby, Gotland, Sweden)
 
 https://nbisweden.github.io/workshop-RaukR-1906/
+
+#### 7. Manchester Methods in Social science summer school 
+
+https://twitter.com/r_solymosi/status/1145995532772478976
+
+methods.manchester.ac.uk
+
+
+#### 8. Alternatively... teach yourself
+
+There are so many online resources available that with a little bit of dedication (and perhaps some social support) you can definitely teach yourself. Check out this [great list of resources](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/ccs/resources-and-readings) compiled by Amy Perfors from Uni Melbourne. 

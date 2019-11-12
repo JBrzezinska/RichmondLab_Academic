@@ -6,10 +6,37 @@
     <description>Recent content in Authors on Richmond Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>by Julia B</title>
+      <link>/authors/by-julia-b/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/by-julia-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>by Jenny Richmond</title>
+      <link>/authors/by-jenny-richmond/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/by-jenny-richmond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>by Ashneeta Prasad</title>
+      <link>/authors/by-ashneeta-prasad/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/by-ashneeta-prasad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jenny Richmond</title>
@@ -17,15 +44,6 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/jenny-richmond/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Richmond Lab</title>
-      <link>/authors/richmond-lab/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/richmond-lab/</guid>
       <description></description>
     </item>
     
@@ -39,12 +57,21 @@
     </item>
     
     <item>
+      <title>Richmond Lab</title>
+      <link>/authors/richmond-lab/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/richmond-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Jenny Richmond is a Senior Lecturer in the School of Psychology at the University of New South Wales in Sydney Australia. Her research uses eyetracking and psychophysiology to investigate learning, memory and emotion processes during infancy and early childhood. She is co-founder of R-Ladies Sydney and an advocate of Open Science Practices.&lt;/p&gt;
+      <description>&lt;p&gt;Jenny Richmond is a Associate Professor in the School of Psychology at the University of New South Wales in Sydney Australia. Her research uses eyetracking and psychophysiology to investigate learning, memory and emotion processes during infancy and early childhood. She is co-founder of R-Ladies Sydney and an advocate of Open Science Practices.&lt;/p&gt;
 </description>
     </item>
     

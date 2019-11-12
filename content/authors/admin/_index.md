@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jenny Richmond is a Senior Lecturer in the School of Psychology at the University of New South Wales in Sydney Australia. Her research uses eyetracking and psychophysiology to investigate learning, memory and emotion processes during infancy and early childhood. She is co-founder of R-Ladies Sydney and an advocate of Open Science Practices. 
+bio: Jenny Richmond is a Associate Professor in the School of Psychology at the University of New South Wales in Sydney Australia. Her research uses eyetracking and psychophysiology to investigate learning, memory and emotion processes during infancy and early childhood. She is co-founder of R-Ladies Sydney and an advocate of Open Science Practices. 
 
 interests:
 - Infant learning and memory 
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Jenny Richmond is a Senior Lecturer in the School of Psychology at the University of New South Wales in Sydney Australia. Her research uses eyetracking and psychophysiology to investigate learning, memory and emotion processes during infancy and early childhood. She is co-founder of R-Ladies Sydney and an advocate of Open Science Practices. 
+Jenny Richmond is a Associate Professor in the School of Psychology at the University of New South Wales in Sydney Australia. Her research uses eyetracking and psychophysiology to investigate learning, memory and emotion processes during infancy and early childhood. She is co-founder of R-Ladies Sydney and an advocate of Open Science Practices. 
