@@ -1,8 +1,8 @@
 ---
-title: What is open science?
+title: what is open science?
 author: ''
 date: '2019-06-30'
-slug: open-science-i
+slug: open-science-what
 categories: []
 tags: []
 subtitle: ''
@@ -16,7 +16,6 @@ image:
   preview_only: no
 projects: []
 ---
-
 
 ## Open Science in Psychology
 

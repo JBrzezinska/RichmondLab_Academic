@@ -7,7 +7,7 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: ["Jenny Richmond"]
+authors: ["by Jenny Richmond"]
 lastmod: '2019-07-01T20:49:43+10:00'
 featured: no
 image:
