@@ -29,39 +29,26 @@
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/lessons-from-julia-lowndes/</guid>
-      <description>&lt;p&gt;Julia Lowndes is an environmental scientist who works with the Ocean Health Index and was invited to give a &lt;a href=&#34;https://www.youtube.com/watch?v=Z8PqwFPqn6Y&#34; target=&#34;_blank&#34;&gt;keynote at the userR conference&lt;/a&gt; in Toulouse about her work promoting reproducible data science. Her talk was called &lt;strong&gt;&amp;ldquo;R for better science in less time&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;Julia Lowndes is an environmental scientist who works with the Ocean Health Index and was invited to give a &lt;a href=&#34;https://www.youtube.com/watch?v=Z8PqwFPqn6Y&#34;&gt;keynote at the userR conference&lt;/a&gt; in Toulouse about her work promoting reproducible data science. Her talk was called &lt;strong&gt;&amp;ldquo;R for better science in less time&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Much like psychologists, environmental scientists aren&amp;rsquo;t taught how to work with data, so they learn the hard way. The Ocean Health index did it incrementally (as Brian Nosek also suggests) first adding R and Rstudio to their workflow, then git and github, tidy data principles, and finally communication with RMarkdown.&lt;/p&gt;
-
 &lt;p&gt;The result was more reproducible science with easier collaboration (even with their future selves).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/post/2019-07-25-lessons-from-julia-lowndes_files/reproducibility by collaboration.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;from &lt;a href=&#34;https://www.nature.com/articles/s41559-017-0160&#34; target=&#34;_blank&#34;&gt;Lowndes et al. (2017)&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;![](/post/2019-07-25-lessons-from-julia-lowndes_files/reproducibility by collaboration.jpg)&lt;/p&gt;
+&lt;p&gt;from &lt;a href=&#34;https://www.nature.com/articles/s41559-017-0160&#34;&gt;Lowndes et al. (2017)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Scientists don&amp;rsquo;t think of themselves as data scientists; Julia argues that it is worth reworking the definition to include scientists.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Data science = the discpline of turning raw data into understanding&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;We really liked the idea that open science is a spectrum. By considering it a journey that you can start on with relatively small changes in behaviour, it breaks down the mindset that you are either doing it or not.&lt;/p&gt;
-
 &lt;p&gt;You can start by&amp;hellip;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;sharing the slides from a presentation&lt;/li&gt;
 &lt;li&gt;work as a team with git, even just within you group and those repositories re private&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&amp;mdash;&amp;ndash; these things count&lt;/p&gt;
-
 &lt;p&gt;R is great because you can use the same tools to do analysis and communication.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Teamwork starts with openness; working openly, vertical/horizontal leadership, community&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;You dont need to be an expert before you can champion the process with others. Create time aside to work on something that benefits everyone.&lt;/p&gt;
 </description>
     </item>
@@ -72,26 +59,15 @@
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/open-science-how-to/</guid>
-      <description>
-
-&lt;h2 id=&#34;practical-and-logistical-considerations&#34;&gt;Practical and logistical considerations&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;practical-and-logistical-considerations&#34;&gt;Practical and logistical considerations&lt;/h2&gt;
 &lt;p&gt;In order to promote the adoption of open science practices, organizational change, particularly from a publication perspective, will be vital. High impact scientific journals will need to begin prioritizing the publication of investigations that have adhered to rigorous open science standards. As well as committing to the publication of pre-registered studies, journals should be encouraged to award researchers with reputation-based incentives for adhering to open science practices.&lt;/p&gt;
-
 &lt;p&gt;From a practical perspective, open science will require additional phases of planning prior to investigations, posing potential time inconveniences. This burden will be particularly pronounced for ECRs, who may resent the time required to organize pre-registration plans, particularly in a competitive publication-focused environment. The current culture of research planning will need to adapt to normalize time investments prior, rather than post, investigations, demanding field wide changes to the ‘timeline’ of science.&lt;/p&gt;
-
 &lt;p&gt;A crucial consideration when adopting open science practices is how data will be disseminated and protected. Open science principles require registered studies to make study data publicly available to other researchers at the end of the study. This facilitates the re-analysis and possible re-use of data. While data sharing has the potential to increase the speed and accountability of current research practices, this pursuit is not without risk. Data is inherently sensitive; psychological studies in particular may collect individual data of a personal or sensitive nature, requiring careful de-identification before public release. To maximize security, as well as facilitate the hosting of large data files, data should be stored on secure, dedicated file sharing platforms, such as Figshare or OSF. Where published, data should be made as accessible as possible, through the use of informative variable labelling, and by saving data in accessible formats such as .csv or .txt files.&lt;/p&gt;
-
 &lt;p&gt;As researchers, data and the publications that follow from them are our livelihood. Understandably, many scientists have raised concerns about the possibility of being ‘scooped’ by competitive researchers. Careful pre-registration records, as well as questions of data ownership, authorship and intellectual property rights must be addressed prior to distributing a data set for researchers to exploit and reuse.&lt;/p&gt;
-
 &lt;h2 id=&#34;what-could-we-change-about-our-practice-to-make-it-more-open-where-should-we-start&#34;&gt;What could we change about our practice to make it more open? Where should we start?&lt;/h2&gt;
-
 &lt;h4 id=&#34;how-to-do-it-not-a-matter-of-yes-or-no-but-rather-how-much&#34;&gt;How to Do It: Not a matter of yes or no but rather how much?&lt;/h4&gt;
-
 &lt;p&gt;Open science can be a daunting prospect, especially for early career researchers or those just starting to dip their toes into the open science water. While different people have different views on what it means to practice open science, in the Richmond Lab we are firm believers of taking &amp;lsquo;baby steps&amp;rsquo; (pun not intended) rather than taking no steps at all. As the science tides change and open science gains more and more traction across a variety of disciplines - including Psychology - what can we do as researchers at various levels to push this change along?&lt;/p&gt;
-
-&lt;p&gt;The following points will cover some core principles discussed in an article written by Spellman, Gilbert &amp;amp; Corker (2017) titled &lt;a href=&#34;https://osf.io/q4ztd/download&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;Open Science: What, Why and How&amp;rsquo;&lt;/a&gt; that outlines various ways we can begin incorporating more open science friendly practices in our research.&lt;/p&gt;
-
+&lt;p&gt;The following points will cover some core principles discussed in an article written by Spellman, Gilbert &amp;amp; Corker (2017) titled &lt;a href=&#34;https://osf.io/q4ztd/download&#34;&gt;&amp;lsquo;Open Science: What, Why and How&amp;rsquo;&lt;/a&gt; that outlines various ways we can begin incorporating more open science friendly practices in our research.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Data management
 a. Make it available – Save!
@@ -101,40 +77,25 @@ c. Make it discoverable – Share!&lt;/li&gt;
 &lt;li&gt;Registered reports&lt;/li&gt;
 &lt;li&gt;Join a large scale replication project&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h3 id=&#34;data-management&#34;&gt;Data Management&lt;/h3&gt;
-
 &lt;p&gt;A key part of open science is the data management and organisation side of things - this can often be an element of open science that is overlooked when first starting out. When people hear the phrase ‘open science’ many (including us) think automatically of openly sharing data to enhance transparency in our research practices. However, a core part of this process involves making sure that the data and accompanying information that you are sharing is FAIR. This means that data should be&amp;hellip;&lt;/p&gt;
-
 &lt;h4 id=&#34;fair-data-is&#34;&gt;FAIR data is&amp;hellip;&lt;/h4&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Findable&lt;/li&gt;
 &lt;li&gt;Accessible&lt;/li&gt;
 &lt;li&gt;Interpretable&lt;/li&gt;
 &lt;li&gt;Reusable&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;Following the FAIR guidelines, which can be found &lt;a href=&#34;https://www.nature.com/articles/sdata201618&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;,  when it comes to data management and archiving best practices is a good first step. This is key to efficient and meaningful open science - without engaging in at least some of these practices it is hard for others to make sense of your study and the data that comes from it.&lt;/p&gt;
-
+&lt;p&gt;Following the FAIR guidelines, which can be found &lt;a href=&#34;https://www.nature.com/articles/sdata201618&#34;&gt;here&lt;/a&gt;,  when it comes to data management and archiving best practices is a good first step. This is key to efficient and meaningful open science - without engaging in at least some of these practices it is hard for others to make sense of your study and the data that comes from it.&lt;/p&gt;
 &lt;p&gt;The next few sections will cover how to align your research practices with open science and the FAIR principles.&lt;/p&gt;
-
-&lt;h4 id=&#34;make-it-available-save&#34;&gt;Make it Available - Save&lt;/h4&gt;
-
+&lt;h4 id=&#34;make-it-available---save&#34;&gt;Make it Available - Save&lt;/h4&gt;
 &lt;p&gt;An obvious yet crucial part of engaging in more Open Science practices is to make your data available and accessible when saving. This means trying to use file types that are widely accessible (.csv, .rtf, .txt) so that if you were to share your resources, other researchers would be able to access them without the need for expensive software licenses.&lt;/p&gt;
-
 &lt;p&gt;We obviously understand this may not be feasible all the time depending on the type of research you do and the software/equipment used, but where possible, try to keep file formats as accessible as possible.&lt;/p&gt;
-
-&lt;h4 id=&#34;make-it-intelligible-organise-label-annotate&#34;&gt;Make it Intelligible - Organise, Label &amp;amp; Annotate&lt;/h4&gt;
-
+&lt;h4 id=&#34;make-it-intelligible---organise-label--annotate&#34;&gt;Make it Intelligible - Organise, Label &amp;amp; Annotate&lt;/h4&gt;
 &lt;p&gt;An equally important step of open science is making sure that you make your data intelligible - organise, label and annotate! Even if you do not plan to share your data, making sure that your data and study materials (including any edits, updates or major revisions) are documented clearly is essential to good research practices in general.&lt;/p&gt;
-
 &lt;p&gt;There are a various checklists and templates available online that detail different things you may wish to record at different steps of the research process (see Table 3 of Spellman&amp;rsquo;s 2017 article linked at the end of this blog post).&lt;/p&gt;
-
 &lt;p&gt;Below we provide a general summary of some things to record as part of good research practice that is in line with open science principles.These include:&lt;/p&gt;
-
 &lt;h5 id=&#34;before-data-collection&#34;&gt;Before data collection&lt;/h5&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Ensuring you have standard operating procedures in the lab -  including naming conventions&lt;/li&gt;
 &lt;li&gt;Power analyses
@@ -142,61 +103,40 @@ c. Make it discoverable – Share!&lt;/li&gt;
 &lt;li&gt;Variables and their explanations&lt;/li&gt;
 &lt;li&gt;Additional information for confirmatory studies - exclusion criteria, hypotheses, analysis plans&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h5 id=&#34;after-data-collection&#34;&gt;After data collection&lt;/h5&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Notes about final sample size&lt;/li&gt;
 &lt;li&gt;Anything unusual that occurred&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h5 id=&#34;after-data-analyses&#34;&gt;After data analyses&lt;/h5&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Annotated analysis script files and data keys&lt;/li&gt;
 &lt;li&gt;Exploratory analyses&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Depending on the design of your study (e.g., longitudinal or cross-sectional, number of variables measured, protocols across multi-site studies), you may benefit from a version control system that helps to clarify record changes in the research process and dataset. For example - instead of manually saving additional files as &amp;lsquo;Protocol Version 1.0/ 2.0/ 2.2&amp;rsquo;, a version control system allows you to have a clear transparent and documented system for tracking a file as it is revised over time.&lt;/p&gt;
-
 &lt;p&gt;The benefits of having version control system are twofold.
 Firstly, having such a system makes it easier for you to keep track of changes within your own study. This in turn reduces the likelihood of errors being carried forward (e.g., an old protocol used rather than the most up to date version).
 Secondly, if you choose to share your data and materials, version control systems provide greater transparency regarding changes made to your study throughout the process. This is an important point to keep in mind as many people find the prospect of OS as an &amp;lsquo;all or nothing&amp;rsquo; thing. While there are many OS purists out there, something as simple as organising, labelling and annotating your study materials is a step closer to OS (in our opinion at least).&lt;/p&gt;
-
-&lt;h4 id=&#34;make-it-discoverable-share&#34;&gt;Make it Discoverable - Share&lt;/h4&gt;
-
+&lt;h4 id=&#34;make-it-discoverable---share&#34;&gt;Make it Discoverable - Share&lt;/h4&gt;
 &lt;p&gt;Probably one of the more classic hallmarks of open science is sharing your data so that it may be easily accessed by others. It is important to plan what, when and where you are going to share so that you may develop a data management plan accordingly. Public work should state where relevant data and supporting materials are available using stable URLs or other stable digital object identifiers (DOIs).&lt;/p&gt;
-
 &lt;p&gt;You may be wondering - how much do I actually share?&lt;/p&gt;
-
 &lt;p&gt;Ultimately, this is up to you as the researcher and different researchers hold different philosophies. On one end of the spectrum, there are those who view themselves as &amp;lsquo;data stewards&amp;rsquo; rather than &amp;lsquo;data owners&amp;rsquo;. From this standpoint, it is not only a preference to make everything available but rather a duty that is necessary to preserving the essence of the scientific process - the process that was borne before problematic incentive structures and the commercialisation of science had become widespread. On the other end of the spectrum, there are open science researchers who will provide only the data and materials that a relevant to reproduce published results. Both of these ends and everything in between constitutes as Open Science (to us at least). It is up to you as an individual researcher as well as part of your wider lab group and/or groups and collaborations to decide to what extent you would like to share your data and materials.&lt;/p&gt;
-
 &lt;p&gt;Some ways to start thinking about this is asking yourself what values are you trying to uphold by engaging in open science?&lt;/p&gt;
-
 &lt;p&gt;Is it to:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Promote greater reliability in research findings by making it easier for replication studies to occur?&lt;/li&gt;
 &lt;li&gt;Disseminate science more broadly and even encourage citizen science among non-professionals?&lt;/li&gt;
 &lt;li&gt;Speed up progress by promoting further collaboration?&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;On a more practical level, below we provide some examples of types of materials you may consider sharing:&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;Study protocols that outline the aims, hypothesis, method, analyses. This includes being specific information about:
-
-&lt;ol&gt;
+&lt;li&gt;Study protocols that outline the aims, hypothesis, method, analyses. This includes being specific information about:&lt;/li&gt;
 &lt;li&gt;Platforms being used for analysis&lt;/li&gt;
 &lt;li&gt;Relevant analysis codes and direction of hypotheses&lt;/li&gt;
 &lt;li&gt;Study materials&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Ensure that you are citing things correctly, especially publically available materials&lt;/p&gt;
-
 &lt;p&gt;Data and metadata:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Data - use special repositories for niche research areas&lt;/li&gt;
 &lt;li&gt;Meta-data - data about your data; this includes:&lt;/li&gt;
@@ -204,52 +144,38 @@ Secondly, if you choose to share your data and materials, version control system
 &lt;li&gt;Code book (ideally in a .txt format) that contains names of variables, links to analysis code and relevant data sets&lt;/li&gt;
 &lt;li&gt;Analysis procedures/codes  (E.g. R Markdown, SPSS syntax)&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h3 id=&#34;pre-registration&#34;&gt;Pre-registration&lt;/h3&gt;
-
 &lt;p&gt;Pre-registering confirmatory studies is one of the most common ways to practice open science. Pre-registering a confirmatory study helps prevent against several questionable research practices that inflate the type 1-error rates (i.e., likelihood of false positives). These questionable practices include HARKING (Hypothesising After Results Are Known) and p-hacking whereby researchers run multiple statistical analyses until they achieve a significant result.&lt;/p&gt;
-
 &lt;p&gt;Pre-registering involves clearly stating your research design and study materials before your data collected begins. This prevents authors from going back and making adjustments to how they report their methodology in order to fit the data they have collected, or reporting exploratory findings as confirmatory after the fact.&lt;/p&gt;
-
 &lt;p&gt;There are different ways to register your studies including&amp;hellip;&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;Pre-registration&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;where you specify your research design (including study materials)&lt;/li&gt;
-&lt;li&gt;Pre-registration +&lt;/li&gt;
-&lt;li&gt;whereby in addition to your research design, you also provide planned statistical analyses (for confirmatory research). Note that these do not have to be directional hypotheses but can just specifically outline the statistical tests a priori.&lt;/li&gt;
+&lt;li&gt;Pre-registration&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;When you pre-register your study details, you are provided with a verified timestamp on all the materials uploaded. For those of you concerned about getting scooped (see next section for more information), there is the option to place embargos on your study details so that you can make them private and release them at a later time.
+&lt;ul&gt;
+&lt;li&gt;where you specify your research design (including study materials)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Pre-registration +&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;whereby in addition to your research design, you also provide planned statistical analyses (for confirmatory research). Note that these do not have to be directional hypotheses but can just specifically outline the statistical tests a priori.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When you pre-register your study details, you are provided with a verified timestamp on all the materials uploaded. For those of you concerned about getting scooped (see next section for more information), there is the option to place embargos on your study details so that you can make them private and release them at a later time. 
 Depending on the platform you use, the option to have your pre-registered details embargoed can vary (e.g., on the Open Science Framework, you can place up to a 4 year embargo after which the details will automatically be made public whereas on AsPredicted.org you are able to place an embargo on the details indefinitely if you wish).&lt;/p&gt;
-
 &lt;h4 id=&#34;but-what-if-i-get-scooped&#34;&gt;But What if I get Scooped?&lt;/h4&gt;
-
 &lt;p&gt;The likelihood of being scooped is widely overestimated but it makes sense that is a concern for a good proportion of researchers. You pour your time and effort into a project so you are understandably a bit protective of that work. However, open science can actually be beneficial in both communicating and carving out your own research space while also opening up opportunities to collaborate and gaining you more citations (yay!).&lt;/p&gt;
-
-&lt;p&gt;Pre-registering studies and sharing that information provides you with an opportunity to be like &amp;ldquo;Hey, this is what I&amp;rsquo;m already doing / about to do…&amp;rdquo;. This in itself can often dissuade researchers who are much earlier on in the research process that may have wanted to examine a similar question. Similarly, by pre-registering and sharing study information, researchers with similar research interests are more likely to reach out and offer collaborations. This allows for the merging of expertise to make for a richer scientific process. Finally, by making your data available, you are more likely to be cited if researchers go on to use your dataset for their respective studies.&lt;/p&gt;
-
+&lt;p&gt;Pre-registering studies and sharing that information provides you with an opportunity to be like &amp;ldquo;Hey, this is what I&amp;rsquo;m already doing / about to do…&amp;quot;. This in itself can often dissuade researchers who are much earlier on in the research process that may have wanted to examine a similar question. Similarly, by pre-registering and sharing study information, researchers with similar research interests are more likely to reach out and offer collaborations. This allows for the merging of expertise to make for a richer scientific process. Finally, by making your data available, you are more likely to be cited if researchers go on to use your dataset for their respective studies.&lt;/p&gt;
 &lt;h3 id=&#34;registered-reports&#34;&gt;Registered Reports&lt;/h3&gt;
-
 &lt;p&gt;Registered reports are another way to engage in the practice of open science. This process helps to protect against confirmation bias since reviewers conduct a thorough review of a research plan prior to data collection in order to establish that the study is well-designed, fair and is examining a relevant research question.&lt;/p&gt;
-
-&lt;p&gt;Based on the research plans, the study can be provisionally accepted for publication based on the soundness of the study aims, design, hypotheses, methods and analytic approach rather than their results. This in turn helps to combat the &lt;strong&gt;file-drawer problem&lt;/strong&gt;, in which only significant and sensationalist findings get published while &amp;lsquo;less sexy&amp;rsquo; findings are filed away or rejected by reviewers. The following link takes you to a &lt;a href=&#34;https://cos.io/rr/?_ga=1.62517349.85780&#34; target=&#34;_blank&#34;&gt;webpage&lt;/a&gt; that summarises Registered Reports and outlines how you may engage in this process.&lt;/p&gt;
-
+&lt;p&gt;Based on the research plans, the study can be provisionally accepted for publication based on the soundness of the study aims, design, hypotheses, methods and analytic approach rather than their results. This in turn helps to combat the &lt;strong&gt;file-drawer problem&lt;/strong&gt;, in which only significant and sensationalist findings get published while &amp;lsquo;less sexy&amp;rsquo; findings are filed away or rejected by reviewers. The following link takes you to a &lt;a href=&#34;https://cos.io/rr/?_ga=1.62517349.85780&#34;&gt;webpage&lt;/a&gt; that summarises Registered Reports and outlines how you may engage in this process.&lt;/p&gt;
 &lt;h3 id=&#34;participate-in-a-large-scale-replication-project&#34;&gt;Participate in a Large Scale Replication Project&lt;/h3&gt;
-
 &lt;p&gt;Finally, in addition to adopting Open Science principles when conducting your own, novel research studies - getting involved in a large-scale replication project (e.g., Many Labs, Many Babies) is a hands on way to get involved in the open science movement. Big research groups are always looking for people to sign on and ‘fight the good fight’ so to speak.&lt;/p&gt;
-
 &lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
-
 &lt;p&gt;If you have made it to the end of this blog post – good job! 💜 While the process of Open Science can sometimes feel a bit overwhelming, we are firm believers that something is better than nothing and the fact that you’re even looking into open science (as evidenced by you reading this blog post) means you are already one step closer to engaging in open science.&lt;/p&gt;
-
 &lt;p&gt;We encourage you to follow-up the resources shared in this blog post and look further into how to get started.&lt;/p&gt;
-
 &lt;p&gt;Below we have provided the core articles that helped to inform this blog post and we highly recommend you check them out!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://psyarxiv.com/ak6jr/&#34; target=&#34;_blank&#34;&gt;Spellman, Gilbert &amp;amp; Corker (2017) -Open Science: What, Why and How&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.collabra.org/articles/10.1525/collabra.158/&#34; target=&#34;_blank&#34;&gt;Klein et al., (2018) -A Practical Guide for Transparency in Psychological Science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://psyarxiv.com/ak6jr/&#34;&gt;Spellman, Gilbert &amp;amp; Corker (2017) -Open Science: What, Why and How&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.collabra.org/articles/10.1525/collabra.158/&#34;&gt;Klein et al., (2018) -A Practical Guide for Transparency in Psychological Science&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -259,45 +185,24 @@ Depending on the platform you use, the option to have your pre-registered detail
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/summer-schools/</guid>
-      <description>
-
-&lt;p&gt;Summer schools are a great way for PhD students to learn new skills, meet new people, and foster support networks. There are lots popping up on twitter focussing on Open Science. This post is an attempt to keep the details together for future reference.&lt;/p&gt;
-
+      <description>&lt;p&gt;Summer schools are a great way for PhD students to learn new skills, meet new people, and foster support networks. There are lots popping up on twitter focussing on Open Science. This post is an attempt to keep the details together for future reference.&lt;/p&gt;
 &lt;h4 id=&#34;1-melbourne-complex-human-data-summer-school-dec-2018&#34;&gt;1. Melbourne Complex Human Data Summer School (Dec, 2018)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news-and-events/complex-human-data-summer-school&#34; target=&#34;_blank&#34;&gt;https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news-and-events/complex-human-data-summer-school&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news-and-events/complex-human-data-summer-school&#34;&gt;https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news-and-events/complex-human-data-summer-school&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2-oxford-berlin-summer-school-on-open-research-oxford-16-20th-sept-2019&#34;&gt;2. Oxford Berlin Summer School on Open Research (Oxford, 16-20th Sept 2019)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.bihealth.org/en/notices/oxford-berlin-summer-school-on-open-research-2019/&#34; target=&#34;_blank&#34;&gt;https://www.bihealth.org/en/notices/oxford-berlin-summer-school-on-open-research-2019/&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;https://www.bihealth.org/en/notices/oxford-berlin-summer-school-on-open-research-2019/&#34;&gt;https://www.bihealth.org/en/notices/oxford-berlin-summer-school-on-open-research-2019/&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;3-open-science-in-practice-lausanne-2-6-sept-2019&#34;&gt;3. Open Science in Practice (Lausanne, 2-6 Sept 2019)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://osip2019.epfl.ch/&#34; target=&#34;_blank&#34;&gt;http://osip2019.epfl.ch/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;4-durham-rstats-summer-school-aug-27-29-2019&#34;&gt;4. Durham #rstats Summer school  (Aug 27-29 2019)&lt;/h4&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I’ll be teaching data wrangling with tidyverse and visualisations with ggplot at the &lt;a href=&#34;https://twitter.com/DurhamPsych?ref_src=twsrc%5Etfw&#34;&gt;@DurhamPsych&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; summer school August 27-29. Sally Street will teach intro to R and GLM. &lt;br&gt;&lt;br&gt;Sign up at &lt;a href=&#34;https://t.co/pO9dbD05mR&#34;&gt;https://t.co/pO9dbD05mR&lt;/a&gt; &lt;a href=&#34;https://t.co/QOT7brSE2T&#34;&gt;pic.twitter.com/QOT7brSE2T&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lisa DeBruine 🏳️
-🌈 (@LisaDeBruine) &lt;a href=&#34;https://twitter.com/LisaDeBruine/status/1143934330206658564?ref_src=twsrc%5Etfw&#34;&gt;June 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;5-birmingham-statistics-for-linguists-summer-school-17-21-june-2019-bodo-winter&#34;&gt;5. Birmingham Statistics for Linguists Summer School  (17-21 June 2019 Bodo Winter)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/events/2019/linguists-summer-school.aspx&#34; target=&#34;_blank&#34;&gt;https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/events/2019/linguists-summer-school.aspx&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;http://osip2019.epfl.ch/&#34;&gt;http://osip2019.epfl.ch/&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;4-durham-rstats-summer-school--aug-27-29-2019&#34;&gt;4. Durham #rstats Summer school  (Aug 27-29 2019)&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;5-birmingham-statistics-for-linguists-summer-school--17-21-june-2019-bodo-winter&#34;&gt;5. Birmingham Statistics for Linguists Summer School  (17-21 June 2019 Bodo Winter)&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/events/2019/linguists-summer-school.aspx&#34;&gt;https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/events/2019/linguists-summer-school.aspx&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;6-advanced-r-for-bioinformatics-summer-school-10-20-june-2019-visby-gotland-sweden&#34;&gt;6. Advanced R for Bioinformatics Summer School (10-20 June 2019. Visby, Gotland, Sweden)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://nbisweden.github.io/workshop-RaukR-1906/&#34; target=&#34;_blank&#34;&gt;https://nbisweden.github.io/workshop-RaukR-1906/&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;https://nbisweden.github.io/workshop-RaukR-1906/&#34;&gt;https://nbisweden.github.io/workshop-RaukR-1906/&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;7-manchester-methods-in-social-science-summer-school&#34;&gt;7. Manchester Methods in Social science summer school&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/r_solymosi/status/1145995532772478976&#34; target=&#34;_blank&#34;&gt;https://twitter.com/r_solymosi/status/1145995532772478976&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/r_solymosi/status/1145995532772478976&#34;&gt;https://twitter.com/r_solymosi/status/1145995532772478976&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;methods.manchester.ac.uk&lt;/p&gt;
-
 &lt;h4 id=&#34;8-alternatively-teach-yourself&#34;&gt;8. Alternatively&amp;hellip; teach yourself&lt;/h4&gt;
-
-&lt;p&gt;There are so many online resources available that with a little bit of dedication (and perhaps some social support) you can definitely teach yourself. Check out this &lt;a href=&#34;https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/ccs/resources-and-readings&#34; target=&#34;_blank&#34;&gt;great list of resources&lt;/a&gt; compiled by Amy Perfors from Uni Melbourne.&lt;/p&gt;
+&lt;p&gt;There are so many online resources available that with a little bit of dedication (and perhaps some social support) you can definitely teach yourself. Check out this &lt;a href=&#34;https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/ccs/resources-and-readings&#34;&gt;great list of resources&lt;/a&gt; compiled by Amy Perfors from Uni Melbourne.&lt;/p&gt;
 </description>
     </item>
     
@@ -307,31 +212,18 @@ Depending on the platform you use, the option to have your pre-registered detail
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/reading-list/</guid>
-      <description>
-
-&lt;p&gt;Here is the list of Open Science reading that we are working our way through at lab meeting this term.&lt;/p&gt;
-
+      <description>&lt;p&gt;Here is the list of Open Science reading that we are working our way through at lab meeting this term.&lt;/p&gt;
 &lt;h4 id=&#34;week-0&#34;&gt;Week 0&lt;/h4&gt;
-
-&lt;p&gt;Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., &amp;hellip; &amp;amp; Ioannidis, J. P. (2017). A manifesto for reproducible science. &lt;em&gt;Nature human behaviour&lt;/em&gt;, 1(1), 0021. &lt;a href=&#34;https://www.nature.com/articles/s41562-016-0021.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Spellman, B. A. (2015). A short (personal) future history of revolution 2.0. &lt;em&gt;Perspectives on Psychological Science&lt;/em&gt;, 10(6), 886–899 &lt;a href=&#34;https://journals.sagepub.com/doi/pdf/10.1177/1745691615609918?casa_token=GwWkc-30de4AAAAA:T99zylgrQfNG2eYAbv2Rgpi06e3AsaK2JtkiWSXCG31gWk3Ca5eNkX-nrGhy0ocuB-R23ECh9C1MZA&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hamlin, J. K. (2017). Is psychology moving in the right direction? An analysis of the evidentiary value movement. &lt;em&gt;Perspectives on Psychological Science&lt;/em&gt;, 12(4), 690-693. &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/1745691616689062&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., &amp;hellip; &amp;amp; Ioannidis, J. P. (2017). A manifesto for reproducible science. &lt;em&gt;Nature human behaviour&lt;/em&gt;, 1(1), 0021. &lt;a href=&#34;https://www.nature.com/articles/s41562-016-0021.pdf&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spellman, B. A. (2015). A short (personal) future history of revolution 2.0. &lt;em&gt;Perspectives on Psychological Science&lt;/em&gt;, 10(6), 886–899 &lt;a href=&#34;https://journals.sagepub.com/doi/pdf/10.1177/1745691615609918?casa_token=GwWkc-30de4AAAAA:T99zylgrQfNG2eYAbv2Rgpi06e3AsaK2JtkiWSXCG31gWk3Ca5eNkX-nrGhy0ocuB-R23ECh9C1MZA&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hamlin, J. K. (2017). Is psychology moving in the right direction? An analysis of the evidentiary value movement. &lt;em&gt;Perspectives on Psychological Science&lt;/em&gt;, 12(4), 690-693. &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/1745691616689062&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;week-1&#34;&gt;Week 1&lt;/h4&gt;
-
-&lt;p&gt;Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. &lt;em&gt;Science&lt;/em&gt;, 349(6251), aac4716. &lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Allen, C., &amp;amp; Mehler, D. M. (2019). Open science challenges, benefits and tips in early career and beyond. &lt;em&gt;PLoS biology&lt;/em&gt;, 17(5), e3000246. &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. &lt;em&gt;Science&lt;/em&gt;, 349(6251), aac4716. &lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Allen, C., &amp;amp; Mehler, D. M. (2019). Open science challenges, benefits and tips in early career and beyond. &lt;em&gt;PLoS biology&lt;/em&gt;, 17(5), e3000246. &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;week-2&#34;&gt;Week 2&lt;/h4&gt;
-
-&lt;p&gt;Spellman, B. A., Gilbert, E. A., &amp;amp; Corker, K. S. (2018). Open science. &lt;em&gt;Stevens&amp;rsquo; Handbook of Experimental Psychology and Cognitive Neuroscience&lt;/em&gt;, 5, 1-47. &lt;a href=&#34;https://osf.io/preprints/psyarxiv/ak6jr/download&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;Spellman, B. A., Gilbert, E. A., &amp;amp; Corker, K. S. (2018). Open science. &lt;em&gt;Stevens&amp;rsquo; Handbook of Experimental Psychology and Cognitive Neuroscience&lt;/em&gt;, 5, 1-47. &lt;a href=&#34;https://osf.io/preprints/psyarxiv/ak6jr/download&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;week-4&#34;&gt;Week 4&lt;/h4&gt;
-
-&lt;p&gt;Klein, O., Hardwicke, T. E., Aust, F., Breuer, J., Danielsson, H., Mohr, A. H., &amp;hellip; &amp;amp; Frank, M. C. (2018). A practical guide for transparency in psychological science. &lt;em&gt;Collabra: Psychology&lt;/em&gt;, 4(1) &lt;a href=&#34;https://www.collabra.org/articles/10.1525/collabra.158/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Klein, O., Hardwicke, T. E., Aust, F., Breuer, J., Danielsson, H., Mohr, A. H., &amp;hellip; &amp;amp; Frank, M. C. (2018). A practical guide for transparency in psychological science. &lt;em&gt;Collabra: Psychology&lt;/em&gt;, 4(1) &lt;a href=&#34;https://www.collabra.org/articles/10.1525/collabra.158/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -341,113 +233,71 @@ Depending on the platform you use, the option to have your pre-registered detail
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/open-science-what/</guid>
-      <description>
-
-&lt;h2 id=&#34;open-science-in-psychology&#34;&gt;Open Science in Psychology&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;open-science-in-psychology&#34;&gt;Open Science in Psychology&lt;/h2&gt;
 &lt;p&gt;“Open science” is a buzzword becoming increasingly heard in the academic sphere – in university courses and at conferences. But what is open science?&lt;/p&gt;
-
 &lt;p&gt;This term at lab meeting, we are reading and discussing a selection of papers related to the Open Science movement. We are focussing on the 3 P’s of Open Science: Philosophy, Politics and Practicalities.&lt;/p&gt;
-
-&lt;p&gt;You can check out our Open Science &lt;a href=&#34;https://heuristic-bohr-3e6f4b.netlify.com/post/reading-list/&#34; target=&#34;_blank&#34;&gt;reading list here&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;You can check out our Open Science &lt;a href=&#34;https://heuristic-bohr-3e6f4b.netlify.com/post/reading-list/&#34;&gt;reading list here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;So far we have learned a lot about how the Open Science movement came about as well as the benefits and challenges of practicing open science, especially in our subfields (developmental/clinical) of Psychology. Below details some of our thoughts.&lt;/p&gt;
-
 &lt;h3 id=&#34;what-is-open-science&#34;&gt;What is Open Science?&lt;/h3&gt;
-
 &lt;p&gt;In essence, open science is about being transparent about what we do and what we find as scientists. This includes sharing methodology, stimuli, code and data. Practicing open science makes it more likely that our work is reproducible and able to be replicated.&lt;/p&gt;
-
 &lt;p&gt;A big part of being transparent involves pre-registering our intentions for data analysis and reporting findings in a way that is true to that intent; that is, not reporting only significant results. Open science is also about making results as available to the public as you can, as early as possible (e.g., pre-prints).&lt;/p&gt;
-
-&lt;p&gt;These two quotes from the &lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716&#34; target=&#34;_blank&#34;&gt;Open Science Collaboration (2015)&lt;/a&gt; nicely encapsulate the philosophical stance of the Open Science movement and subsequent good research practices:&lt;/p&gt;
-
+&lt;p&gt;These two quotes from the &lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716&#34;&gt;Open Science Collaboration (2015)&lt;/a&gt; nicely encapsulate the philosophical stance of the Open Science movement and subsequent good research practices:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Scientific process is a cumulative process of uncertainty reduction that can only succeed if science itself remains the greatest skeptic of its explanatory claims&amp;rdquo;.&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Innovation points out paths that are possible; replication points out paths that are likely; progress relies on both&amp;rdquo;.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;h3 id=&#34;how-did-the-open-science-movement-come-about&#34;&gt;How did the Open Science movement come about?&lt;/h3&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716&#34; target=&#34;_blank&#34;&gt;Open Science Collaboration’s (2015)&lt;/a&gt; article seems like the “reality check” paper for the Psychology research world. All of us in the lab could recall this paper being published and its ripple effects, which led to much needed attention being drawn to how psychology research should be conducted – i.e., in-line with core philosophy of science.&lt;/p&gt;
-
+&lt;p&gt;The &lt;a href=&#34;https://science.sciencemag.org/content/349/6251/aac4716&#34;&gt;Open Science Collaboration’s (2015)&lt;/a&gt; article seems like the “reality check” paper for the Psychology research world. All of us in the lab could recall this paper being published and its ripple effects, which led to much needed attention being drawn to how psychology research should be conducted – i.e., in-line with core philosophy of science.&lt;/p&gt;
 &lt;p&gt;In order to be credible, research has to be reproducible. And many studies selected for the Open Science Collaboration were not found to have reproducible findings. The ripple effects of this ‘reproducibility crisis’ called into action the Open Science movement, which is advocating for research practices that will improve the reproducibility of research.&lt;/p&gt;
-
 &lt;h3 id=&#34;what-are-the-benefits-of-practising-open-science&#34;&gt;What are the benefits of practising Open Science?&lt;/h3&gt;
-
 &lt;h4 id=&#34;1-greater-faith-in-research&#34;&gt;1. Greater faith in research&lt;/h4&gt;
-
 &lt;p&gt;The Open Science movement should help improve the reliability and quality of scientific work. For example, pre-registration helps ensure that researchers have fully considered analyses and anticipated outcomes of an experiment. Pre-registrations transparently differentiate between confirmatory hypothesis testing and post-hoc exploratory analyses. This helps to guard against questionable research practices and unconscious errors.&lt;/p&gt;
-
 &lt;p&gt;Registered Reports (RR) take it one step further. In RR, hypotheses and methods are peer-reviewed and an author can obtain in principle acceptance for publication prior to data collection. This also helps prevent questionable research practices but also importantly improves chances of publication, in the case of null findings. The reporting of null findings is important because in well-designed and powered experiments, these findings are still informative.&lt;/p&gt;
-
 &lt;h5 id=&#34;tips&#34;&gt;Tips&lt;/h5&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Adopting Open Science procedures now will likely be looked on favourably in the future. Make your work accessible as possible and pre-register experiments when suitable.&lt;/li&gt;
 &lt;li&gt;Don’t be afraid of designing experiments where null findings may occur.&lt;/li&gt;
 &lt;li&gt;Consult the material provided by the Centre for Open Science when preparing preregistration or registered reports.&lt;/li&gt;
 &lt;li&gt;Don’t sit around and complain about the quality or reliability of research – do something about it!&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;2-new-helpful-systems&#34;&gt;2. New Helpful Systems&lt;/h4&gt;
-
 &lt;p&gt;Open and reproducible science can help researchers and promote collaboration. It is possible to build up well documented and robust code libraries that may be reused for future projects and for teaching purposes. If everyone shares, you can gain access to free, high-quality, and  often standardized data.&lt;/p&gt;
-
 &lt;h5 id=&#34;tips-1&#34;&gt;Tips&lt;/h5&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Make use of new tools that facilitate sharing and documenting your work efficiently and publicly&lt;/li&gt;
 &lt;li&gt;Think about whether your research question can be addressed with existing, open data sets.&lt;/li&gt;
 &lt;li&gt;Take advantage of free training options&lt;/li&gt;
 &lt;li&gt;Select methods that fit your research question with feasibility in mind&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;3-investment-in-your-future&#34;&gt;3. Investment in your future&lt;/h4&gt;
-
 &lt;p&gt;Putting work and data in the public domain is central to open science and doing so may increase Early Career Researchers (ECR) opportunities for acknowledgement, exchange, collaboration and advancement. Preprints allow you get the word out about your research earlier and will often get media coverage. Early adoption of open and reproducible methods is an investment in the future and can put young researchers ahead of the curve.&lt;/p&gt;
-
 &lt;h3 id=&#34;what-are-the-challenges-of-practicing-open-science&#34;&gt;What are the challenges of practicing Open Science?&lt;/h3&gt;
-
 &lt;h4 id=&#34;1-restrictions-on-flexibility&#34;&gt;1. Restrictions on flexibility&lt;/h4&gt;
-
 &lt;p&gt;A hypothesis can only be held before the data are looked at, usually before the data are collected. Open science methods respect the distinction between exploratory analyses from planned confirmatory hypothesis testing.
 When data collection has started, new learning about analysis techniques, subsequent publications and exploration of patterns in data cannot inform confirmatory hypothesis or the preregistered experimental design.&lt;/p&gt;
-
 &lt;h5 id=&#34;tips-2&#34;&gt;Tips&lt;/h5&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Pilot data are your friend; you can explore without constraint&lt;/li&gt;
 &lt;li&gt;Make a distinction between planned and exploratory analyses&lt;/li&gt;
 &lt;li&gt;Pre-registered and RR experiments are likely to have a higher evidential value than closed science experiments in the future and so researchers should be encouraged to use these formats&lt;/li&gt;
 &lt;li&gt;Be open to mistakes and do not reprimand others for their mistakes&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;2-the-time-cost&#34;&gt;2. The time cost&lt;/h4&gt;
-
 &lt;p&gt;There is no argument that Open Science takes longer. Archiving, documenting, and maintaining quality control over code and data takes time. The pre-registration and RR process also take time; it is important to carefully consider the research strategy as early as possible in projects, because resources (generally, but particularly time) are limited for ECRs.&lt;/p&gt;
-
 &lt;h5 id=&#34;tip&#34;&gt;Tip&lt;/h5&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Pre-registered, well powered experiments are preferential to those that are not, but it should be expected and planned for that these will take longer than would otherwise be the case.&lt;/li&gt;
 &lt;li&gt;Take time cost into account, both in planning research and thinking about employment.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h4 id=&#34;3-incentive-structures-aren-t-in-place-yet&#34;&gt;3. Incentive structures aren&amp;rsquo;t  in place yet&lt;/h4&gt;
-
+&lt;h4 id=&#34;3-incentive-structures-arent--in-place-yet&#34;&gt;3. Incentive structures aren&amp;rsquo;t  in place yet&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;We talked about this point for a long time in our lab meeting&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Systems that reward open science practices are currently rare. High-profile journals are more likely to publish papers that report positive results and tell a &amp;ldquo;good&amp;rdquo; (aka tidy) story.  Pre-registration and the loss of flexibility that goes with it limits the extent to which articles can be finessed.&lt;/p&gt;
-
 &lt;p&gt;The requirement for studies to be novel, can also work againest motivations to perform replications. In lab meeting, we talked about how the innovation motivation goes all the way back to how we teach research methods to undergraduates. When teaching students about  writing, we emphasise how important it is to highlight how the project fills a gap in the literature. We seldom talk about value of replication and extension.&lt;/p&gt;
-
 &lt;p&gt;Within open science, standards are still developing. There are practical concerns around power and whether in certain subfields (infancy, for example) it is feasible to run high-powered studies.&lt;/p&gt;
-
 &lt;p&gt;There are risks for those at all levels of the game, particularly when the motivation of late has been quantity over quality. For ECRs, engaging in open science is likely to result in fewer publications, which could be quesitoned once you go on the job market. For senior researchers, while it is possible that their previous work could be devalued by failed replications, they are likely to have already secured the benefits of quicker and less robust research practices. Those who are PhD advisors and on hiring committeess, may teach and expect levels of &amp;ldquo;productivity&amp;rdquo; from a different time, which is likely to become a source of tension.&lt;/p&gt;
-
 &lt;h5 id=&#34;tips-3&#34;&gt;Tips&lt;/h5&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Early adoption of open methods and high standards requires careful planning&lt;/li&gt;
 &lt;li&gt;Engaging in OS should put ECRs ahead of the curve as practices evolve&lt;/li&gt;
@@ -455,21 +305,13 @@ When data collection has started, new learning about analysis techniques, subseq
 &lt;li&gt;Focus on quality over quantity&lt;/li&gt;
 &lt;li&gt;Give credit to others for efforts made toward the common good&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;further-thoughts-from-a-ecr-perspective&#34;&gt;Further thoughts from a ECR perspective:&lt;/h3&gt;
-
-&lt;p&gt;The tips in the &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246&#34; target=&#34;_blank&#34;&gt;Allen &amp;amp; Mehler (2019)&lt;/a&gt; paper weren&amp;rsquo;t terribly reassuring in regard to the time problem. Doing open science takes time, something that ECRs just don’t have. Not only are PhD programs and post doc fellowships short, moving institutions and getting a lab going slows you down.&lt;/p&gt;
-
+&lt;p&gt;The tips in the &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246&#34;&gt;Allen &amp;amp; Mehler (2019)&lt;/a&gt; paper weren&amp;rsquo;t terribly reassuring in regard to the time problem. Doing open science takes time, something that ECRs just don’t have. Not only are PhD programs and post doc fellowships short, moving institutions and getting a lab going slows you down.&lt;/p&gt;
 &lt;p&gt;There needs to be a culture shift and we see conflict is inevitable. Is this movement overly optimistic?? Until the incentives really move, that is open science practice is valued on hiring/promotion committees and in funding applications, this shift could move really slowly, disadvantaging the new but leaving the old unaffected.&lt;/p&gt;
-
 &lt;h3 id=&#34;are-there-field-specific-challenges&#34;&gt;Are there field-specific challenges?&lt;/h3&gt;
-
 &lt;p&gt;Clinical: There are so many iterations to therapy models. While this is helpful in terms of allowing adaptations to better fit the needs of individuals, replication is uncommon, unless it’s the same team of individuals testing the same intervention. Clinical trials are also very expensive and not funded well. It comes back to progress needing to be a balance of innovation and replication.&lt;/p&gt;
-
-&lt;p&gt;Developmental: Research with infants and young children is slow. Recruitment is difficult and even when you get babies to the lab they sometimes &amp;ldquo;fuss out&amp;rdquo;. It is really hard to get the kind of large samples that open science practitioners are talking about. &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/1745691616689062&#34; target=&#34;_blank&#34;&gt;Hamlin (2017)&lt;/a&gt; made a good point in her article that open science will only work if it is inclusive and best practices are designed for everyone. The big replication projects like Many Babies are one way to go about it, but it is important that developmental psychology forges its place in the movement. It was great to see this week that an Open Science workshop is planned for the Cognitive Development Society conference in Louisville KT later in the year. Normalising Open Science for everyone is key.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Our &lt;a href=&#34;https://twitter.com/cogdevsoc?ref_src=twsrc%5Etfw&#34;&gt;@cogdevsoc&lt;/a&gt; preconference  on open developmental science has a website! Take a look at our fantastic line up &amp;amp; schedule &amp;amp; get info on how to register. Worth the trip to Louisville, KY! &lt;a href=&#34;https://t.co/etWNqEUc2A&#34;&gt;https://t.co/etWNqEUc2A&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sabine Doebel (@sabine_doebel) &lt;a href=&#34;https://twitter.com/sabine_doebel/status/1144590901047488512?ref_src=twsrc%5Etfw&#34;&gt;June 28, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Developmental: Research with infants and young children is slow. Recruitment is difficult and even when you get babies to the lab they sometimes &amp;ldquo;fuss out&amp;rdquo;. It is really hard to get the kind of large samples that open science practitioners are talking about. &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/1745691616689062&#34;&gt;Hamlin (2017)&lt;/a&gt; made a good point in her article that open science will only work if it is inclusive and best practices are designed for everyone. The big replication projects like Many Babies are one way to go about it, but it is important that developmental psychology forges its place in the movement. It was great to see this week that an Open Science workshop is planned for the Cognitive Development Society conference in Louisville KT later in the year. Normalising Open Science for everyone is key.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

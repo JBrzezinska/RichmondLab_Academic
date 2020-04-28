@@ -1,16 +1,10 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The medial temporal lobe memory system matures relatively early and supports rudimentary declarative memory in young infants. There is considerable development, however, in the memory processes that underlie declarative memory performance during infancy. Here we consider age-related changes in encoding, retention, and retrieval in the context of current knowledge about the brain systems that may underlie these memory processes. While changes in infants’ encoding may be attributed to rapid myelination during the first year of life, improvements in long-term retention and flexible retrieval are likely due to the prolonged development of the dentate gyrus. Future studies combining measures of brain and behavior are critical in improving our understanding of how brain development drives memory development during infancy and early childhood.
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Charles A Nelson
+date: "2007-09-01T00:00:00Z"
+doi: "10.1016/j.dr.2007.04.002"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -21,16 +15,15 @@ publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2007-09-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: the summary is this 
 tags:
 - Source Themes
-title: An example journal article
-url_code: ""
+title: Accounting for change in declarative memory. A cognitive neuroscience perspective
+url_code: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2094108/"
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2094108/pdf/nihms31269.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
